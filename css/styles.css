@@ -1,8 +1,9 @@
 body {
     font-family: 'Roboto', sans-serif;
+    color: #212121
 }
 
-.logo{
+.logo {
     font-family: "Raleway";
 }
 
@@ -11,7 +12,7 @@ body {
 }
 
 .page-one {
-    background-color: black;
+    background-color: #212121;
 }
 
 .logo-part {
@@ -20,4 +21,12 @@ body {
 
 ul {
     list-style: none;
+}
+
+.header-link {
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 1.14;
+    letter-spacing: 0.02em;
+    color: #212121;
 }
