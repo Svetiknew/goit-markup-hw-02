@@ -5,3 +5,19 @@ body {
 .logo{
     font-family: "Raleway";
 }
+
+.header {
+    background-color: #fff;
+}
+
+.page-one {
+    background-color: black;
+}
+
+.logo-part {
+    color: #2196f3;
+}
+
+ul {
+    list-style: none;
+}
