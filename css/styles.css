@@ -103,3 +103,11 @@ color: #FFFFFF;
     letter-spacing: 0.03em;
     color: #757575;
 }
+
+.address-item link {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    letter-spacing: 0.03em;
+    color: #FFFFFF;
+}
