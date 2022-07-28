@@ -25,6 +25,15 @@ body {
     color: #FFFFFF;
 }
 
+.class="feature" {
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 1.14;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #212121;
+}
+
 .logo-part {
     color: #2196f3;
 }
