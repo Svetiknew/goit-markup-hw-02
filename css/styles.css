@@ -30,13 +30,21 @@ ul {
 
 .header-link,
 .header-mail,
-.header-tel {
+.header-tel:hover {
     font-weight: 500;
     font-size: 14px;
     line-height: 1.14;
     letter-spacing: 0.02em;
     color: #212121;
 }
+
+.header-link,
+.header-mail,
+.header-tel:hover {
+    color: #2196F3;
+}
+
+
 
 .page-one {
     background-color: #212121;
