@@ -28,7 +28,9 @@ ul {
     font-style: normal;
 }
 
-.header-link {
+.header-link,
+.header-mail,
+.header-tel {
     font-weight: 500;
     font-size: 14px;
     line-height: 1.14;
