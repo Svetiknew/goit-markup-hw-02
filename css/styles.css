@@ -61,7 +61,7 @@ ul {
     text-align: center;
     letter-spacing: 0.06em;
     color: #FFFFFF;
-    position: center;
+    position: absolute;
     width: 200px;
     height: 50px;
     left: 700px;
