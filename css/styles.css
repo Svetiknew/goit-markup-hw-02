@@ -30,7 +30,7 @@ ul {
 
 .header-link,
 .header-mail,
-.header-tel:hover {
+.header-tel {
     font-weight: 500;
     font-size: 14px;
     line-height: 1.14;
@@ -123,5 +123,5 @@ ul {
 }
 
 footer {
-    background: #2F303A;
+    background-color: #2F303A;
 }
