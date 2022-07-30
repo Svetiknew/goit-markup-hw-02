@@ -123,10 +123,5 @@ ul {
 }
 
 footer {
-    position: absolute;
-    width: 1600px;
-    height: 252px;
-    left: 0px;
-    top: 2097px;
     background: #2F303A;
 }
