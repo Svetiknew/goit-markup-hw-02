@@ -1,6 +1,13 @@
+:root {
+    --main-title-color: #212121;
+    --second-title-color: #FFFFFF;
+    --third-title-color: #2196f3;
+    --fourth-title-color: #757575;
+}
+
 body {
     font-family: "Roboto", sans-serif;
-    color: #212121;
+    color: var(--main-title-color);
 }
 
 .logo {
@@ -13,7 +20,7 @@ body {
 }
 
 .logo-part {
-    color: #2196f3;
+    color: var(--third-title-color);
 }
 
 .header {
@@ -36,26 +43,26 @@ ul {
     font-size: 14px;
     line-height: 1.14;
     letter-spacing: 0.02em;
-    color: #212121;
+    color: var(--main-title-color);
 }
 
 .header-link:hover,
 .header-link:focus {
-    color: #2196F3;
+    color: var(--third-title-color);
 }
 
 .header-mail:hover,
 .header-mail:focus {
-    color: #2196F3;
+    color: var(--third-title-color);
 }
 
 .header-tel:hover,
 .header-tel:focus {
-    color: #2196F3;
+    color: var(--third-title-color);
 }
 
 .page-one {
-    background-color: #212121;
+    background-color: var(--main-title-color);
 }
 
 .page-one-text {
@@ -65,7 +72,7 @@ ul {
     text-align: center;
     letter-spacing: 0.06em;
     text-transform: uppercase;
-    color: #FFFFFF;
+    color: var(--second-title-color);
 }
 
 .service-order {
@@ -73,8 +80,8 @@ ul {
     font-size: 16px;
     line-height: 1.87;
     letter-spacing: 0.06em;
-    color: #FFFFFF;
-    background: #2196F3;
+    color: var(--second-title-color);
+    background: var(--third-title-color);
     box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
     border-radius: 4px;
 }
@@ -85,7 +92,7 @@ ul {
     line-height: 1.14;
     letter-spacing: 0.03em;
     text-transform: uppercase;
-    color: #212121;
+    color: var(--main-title-color);
 }
 
 .feature-explanation {
@@ -93,7 +100,7 @@ ul {
     font-size: 14px;
     line-height: 1.71;    
     letter-spacing: 0.03em;
-    color: #757575;
+    color: var(--fourth-title-color);
 }
 
 .our-workers {
@@ -102,7 +109,7 @@ ul {
     line-height: 1.16;
     text-align: center;
     letter-spacing: 0.03em;
-    color: #212121;
+    color: var(--main-title-color);
 }
 
 .worker-name {
@@ -111,7 +118,7 @@ ul {
     line-height: 1.18;
     text-align: center;
     letter-spacing: 0.03em;
-    color: #212121;
+    color: var(--main-title-color);
 }
 
 .worker-profession {
@@ -120,7 +127,7 @@ ul {
     line-height: 1.18;
     text-align: center;
     letter-spacing: 0.03em;
-    color: #757575;
+    color: var(--fourth-title-color);
 }
 
 .address-item {
@@ -128,7 +135,7 @@ ul {
     font-size: 14px;
     line-height: 1.71;
     letter-spacing: 0.03em;
-    color: #FFFFFF;
+    color: var(--second-title-color);
 }
 
 footer {
@@ -138,20 +145,20 @@ footer {
 .footer-address,
 .footer-mail,
 .footer-tel {
-    color: #FFFFFF;
+    color: var(--second-title-color);
 }
 
 .footer-address:hover,
 .footer-address:focus {
-    color: #2196F3;
+    color: var(--third-title-color);
 }
 
 .footer-mail:hover,
 .footer-mail:focus {
-    color: #2196F3;
+    color: var(--third-title-color);
 }
 
 .footer-tel:hover,
 .footer-tel:focus {
-    color: #2196F3;
+    color: var(--third-title-color);
 }
