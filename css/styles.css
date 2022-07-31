@@ -124,3 +124,8 @@ ul {
 footer {
     background-color: #2F303A;
 }
+
+.addres-item:hover,
+.addres-item:focus {
+    color: #2196F3;
+}
