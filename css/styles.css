@@ -133,6 +133,11 @@ ul {
 
 footer {
     background-color: #2F303A;
+}
+
+.footer-address,
+.footer-mail,
+.footer-tel {
     color: #FFFFFF;
 }
 
