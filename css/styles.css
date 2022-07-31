@@ -39,7 +39,7 @@ ul {
     color: #212121;
 }
 
-.header-link:hover
+.header-link:hover,
 .header-link:focus {
     color: #2196F3;
 }
