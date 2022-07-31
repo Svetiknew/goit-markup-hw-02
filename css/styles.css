@@ -44,6 +44,16 @@ ul {
     color: #2196F3;
 }
 
+.header-mail:hover,
+.header-mail:focus {
+    color: #2196F3;
+}
+
+.header-tel:hover,
+.header-tel:focus {
+    color: #2196F3;
+}
+
 .page-one {
     background-color: #212121;
 }
