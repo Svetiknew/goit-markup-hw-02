@@ -176,3 +176,28 @@ footer {
 .footer-tel:focus {
     color: var(--third-title-color);
 }
+
+.btn {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.62;
+    text-align: center;
+    letter-spacing: 0.03em;
+    color: var(--main-title-color);
+}
+
+.name-project {
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 2;
+    letter-spacing: 0.06em;
+    color: var(--main-title-color);
+}
+
+.type-project {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.8;
+    letter-spacing: 0.03em;
+    color: var(--fourth-title-color);
+}
