@@ -36,14 +36,21 @@ ul {
     font-style: normal;
 }
 
-.header-link,
+.header-link{
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 1.14;
+    letter-spacing: 0.02em;
+    color: var(--main-title-color);
+}
+
 .header-mail,
 .header-tel {
     font-weight: 500;
     font-size: 14px;
     line-height: 1.14;
     letter-spacing: 0.02em;
-    color: var(--main-title-color);
+    color: var(--fourth-title-color);
 }
 
 .header-link:hover,
@@ -62,7 +69,7 @@ ul {
 }
 
 .page-one {
-    background-color: var(--main-title-color);
+    background: #2F303A
 }
 
 .page-one-container {
@@ -146,6 +153,10 @@ ul {
 
 footer {
     background-color: #2F303A;
+}
+
+.logo-studio {
+    color: var(--second-title-color);
 }
 
 .footer-address,
