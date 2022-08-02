@@ -191,6 +191,11 @@ footer {
     cursor: pointer;
 }
 
+.btn:hover {
+    background-color: var(--third-title-color);
+    color: var(--second-title-color);
+}
+
 .name-project {
     font-weight: 700;
     font-size: 18px;
