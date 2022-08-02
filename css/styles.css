@@ -186,6 +186,10 @@ footer {
     color: var(--main-title-color);
 }
 
+.service-order,
+.btn {
+    cursor: pointer;
+}
 .name-project {
     font-weight: 700;
     font-size: 18px;
